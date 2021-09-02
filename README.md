@@ -28,9 +28,9 @@ const defaultEdition = 10; <-(Se crearan 10 imagenes)
 > npm install
 ```
 (Nos creara una carpeta llamada `Node_Modules`)
-- 6 ) En la consola instalamos shuffle para luego generar elementos aleatorios: (a veces tarda tiempo)
+- 6 ) En la consola instalamos truffle para luego generar elementos aleatorios: (a veces tarda tiempo)
 ```js
-> npm install shuffle -g
+> npm install truffle -g
 ```
 - 7 ) En la consola de la terminal ejecutamos el Index para que cree las imagenes:
 ```js
@@ -66,9 +66,9 @@ const defaultEdition = 10; <-(Se crearan 10 imagenes)
 ```
 (that will create a folder called `Node_Modules`)
 
-- 6 ) we install shuffle and then generate random elements: (sometimes it takes time) 
+- 6 ) we install truffle and then generate random elements: (sometimes it takes time) 
 ```js
-> npm install shuffle -g
+> npm install truffle -g
 ```
 - 7 ) In the terminal console we execute the Index to create the images: 
 ```js
