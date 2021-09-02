@@ -41,8 +41,8 @@ const defaultEdition = 10; <-(Se crearan 10 imagenes)
 
 ## Step by step `ENG`
 - 1 ) We download `NodeJS` according to our operating system [here](https://nodejs.org/en/)
-- 2) Inside `Layers` folder we will add our folders with different .png layers to form our NFTs
-- 3) Modify `config.js` with the name of folders that we have added in` Layers`:
+- 2 ) Inside `Layers` folder we will add our folders with different .png layers to form our NFTs
+- 3 ) Modify `config.js` with the name of folders that we have added in` Layers`:
 
 ```js
 const layersOrder = [
